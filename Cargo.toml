@@ -17,3 +17,4 @@ ssmarshal    = { version = "1.0", default-features = false }
 # DWM1001 board.
 [dependencies.nrf52832-hal]
 version = "0.6.0"
+default-features = false
